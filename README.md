@@ -11,8 +11,5 @@ On each folder there are all the packages required by the terminal to install it
 - the not installed .deb are on all the folder included <3.
 
 ## Contributing
-An helpfully thanks to my family, not sure to Guido. :( 
-
 Please make you sure to install packages by the top.
-Don't get manipulated by no one, live free.
 -GP
